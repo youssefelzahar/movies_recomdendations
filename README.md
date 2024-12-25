@@ -51,14 +51,9 @@ The project uses a dataset containing:
 2. Navigate to the project directory:
    ```bash
    cd movies_recommendations
-   ```
+ 
 
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Launch the Jupyter Notebook or Python script:
+3. Launch the Jupyter Notebook or Python script:
    ```bash
    jupyter notebook
    ```
